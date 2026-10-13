@@ -1,0 +1,121 @@
+player_id,player_name,team,position,season,age,matches_played,minutes_played,goals,assists,shots,shots_on_target,passes,key_passes,tackles,interceptions,yellow_cards,red_cards,rating
+1,Carlos Petrov,Ironclad FC,GK,2021-22,31,19,1368,0,0,0,1,21,3,0,1,9,1,6.44
+2,Theo Eriksen,Blue Wave United,DEF,2022-23,34,26,1846,2,0,5,3,30,4,54,37,9,2,6.65
+3,Andre Andersen,Redstone City,DEF,2023-24,36,28,2408,0,2,5,2,51,1,87,35,4,0,5.62
+4,Carlos Berg,Golden Eagles SC,DEF,2021-22,34,11,803,0,0,5,1,56,1,37,46,9,2,6.12
+5,Finn Lombardi,Northport Athletic,DEF,2022-23,26,35,2310,2,2,6,4,49,0,64,22,3,2,5.83
+6,Yusuf Ferreira,Silverstone FC,MID,2023-24,18,9,576,1,7,4,1,68,6,37,32,6,2,6.33
+7,Ivan Mensah,Coastal Rovers,MID,2021-22,27,38,2394,3,1,8,5,84,0,31,31,1,1,6.14
+8,Cris Björk,Thunder Valley FC,MID,2022-23,26,18,1278,2,3,14,8,51,5,24,25,5,2,6.36
+9,Kai Berg,Eastbridge City,MID,2023-24,27,10,700,2,4,4,2,48,0,18,28,5,2,6.12
+10,Dani Castillo,Westfield FC,FWD,2021-22,23,31,2015,4,3,37,21,34,0,0,10,5,2,5.83
+11,Ben Andersen,Ironclad FC,FWD,2022-23,35,5,425,6,4,55,19,36,3,2,9,8,0,7.53
+12,Theo Popov,Blue Wave United,FWD,2023-24,31,9,738,3,2,38,12,34,2,14,6,3,0,5.74
+13,Ade Berg,Redstone City,GK,2021-22,34,7,406,0,1,0,1,12,1,1,0,5,1,5.78
+14,Yusuf Kovač,Golden Eagles SC,DEF,2022-23,18,17,1496,1,1,1,1,19,1,54,61,7,2,6.54
+15,Sven Diaz,Northport Athletic,DEF,2023-24,37,38,2432,0,0,10,4,57,7,41,51,6,0,5.92
+16,Kemal Hernandez,Silverstone FC,DEF,2021-22,38,36,2232,0,0,0,1,47,1,78,41,2,2,6.14
+17,Tiago Popov,Coastal Rovers,DEF,2022-23,18,31,2108,3,2,8,4,47,0,34,59,10,0,6.0
+18,Finn Nkosi,Thunder Valley FC,MID,2023-24,21,17,1326,0,2,23,9,74,11,28,28,1,0,6.1
+19,Luca Yılmaz,Eastbridge City,MID,2021-22,38,9,594,1,1,10,5,68,0,14,25,7,1,6.37
+20,James Costa,Westfield FC,MID,2022-23,26,38,2546,7,6,28,14,61,2,27,27,1,1,5.64
+21,Arjan Müller,Ironclad FC,MID,2023-24,33,19,1045,9,2,15,10,45,4,33,37,8,0,6.05
+22,Finn Andersen,Blue Wave United,FWD,2021-22,22,16,1216,3,2,39,12,13,1,0,20,2,0,5.6
+23,Omar Alves,Redstone City,FWD,2022-23,38,8,720,7,5,86,27,25,3,15,10,1,0,6.53
+24,Rafa Andersen,Golden Eagles SC,FWD,2023-24,20,23,1265,7,4,45,21,55,5,11,10,10,1,6.31
+25,Sven Lombardi,Northport Athletic,GK,2021-22,29,6,444,0,1,1,1,23,0,0,0,1,2,6.21
+26,Serge Eriksen,Silverstone FC,DEF,2022-23,32,8,704,2,0,2,2,48,6,55,36,8,0,5.98
+27,Ivan Yamamoto,Coastal Rovers,DEF,2023-24,38,34,2992,1,2,4,1,39,2,59,60,5,1,6.47
+28,Diogo Nkosi,Thunder Valley FC,DEF,2021-22,24,19,1330,0,1,7,4,70,10,72,45,10,2,6.25
+29,Alexis Alves,Eastbridge City,DEF,2022-23,29,23,1955,0,3,0,1,56,5,52,54,6,0,6.97
+30,Ben Costa,Westfield FC,MID,2023-24,28,36,2988,0,3,30,10,87,13,17,25,8,2,5.7
+31,Ben Yamamoto,Ironclad FC,MID,2021-22,30,10,610,7,6,7,7,76,6,34,41,2,1,6.47
+32,Omar Perez,Blue Wave United,MID,2022-23,34,8,664,5,7,13,5,91,10,32,27,3,1,6.22
+33,Rafa Yamamoto,Redstone City,MID,2023-24,24,15,915,5,7,9,5,104,6,21,16,3,2,6.89
+34,Kai Traore,Golden Eagles SC,FWD,2021-22,31,38,2090,13,5,96,56,36,0,21,5,1,1,6.96
+35,Luca Hassan,Northport Athletic,FWD,2022-23,35,19,1254,0,1,62,31,44,6,0,0,0,2,5.79
+36,Marco Perez,Silverstone FC,FWD,2023-24,31,38,2090,9,6,59,33,47,1,8,9,2,2,6.06
+37,Theo Kovač,Coastal Rovers,GK,2021-22,31,35,1960,0,0,0,1,9,1,0,0,2,2,5.86
+38,Finn Perez,Thunder Valley FC,DEF,2022-23,34,33,2706,3,1,8,4,32,3,46,22,0,0,5.87
+39,Carlos Hassan,Eastbridge City,DEF,2023-24,28,38,3192,2,0,5,2,43,3,68,32,7,2,5.49
+40,Theo Ferreira,Westfield FC,DEF,2021-22,27,23,1978,1,2,5,1,39,5,32,52,2,1,6.61
+41,Kai Müller,Ironclad FC,DEF,2022-23,27,22,1804,4,5,4,4,47,0,42,43,3,1,6.34
+42,Leo Müller,Blue Wave United,MID,2023-24,26,33,2079,0,1,14,5,113,7,43,15,3,1,5.81
+43,Hamid Björk,Redstone City,MID,2021-22,30,27,2133,2,8,8,3,75,6,32,39,3,1,6.46
+44,Javi Lombardi,Golden Eagles SC,MID,2022-23,28,29,2175,1,6,11,4,87,6,37,35,9,0,5.97
+45,Hamid Mensah,Northport Athletic,MID,2023-24,28,10,840,0,3,2,1,45,2,46,33,2,1,5.38
+46,Yusuf Mensah,Silverstone FC,FWD,2021-22,28,37,2146,11,2,63,44,16,2,10,7,4,2,6.39
+47,Alexis Berg,Coastal Rovers,FWD,2022-23,21,29,1769,13,8,37,14,60,8,8,16,9,1,7.15
+48,Omar Nkosi,Thunder Valley FC,FWD,2023-24,18,19,1406,7,1,46,22,46,4,14,4,2,2,5.01
+49,Ben Silva,Eastbridge City,GK,2021-22,19,14,896,0,0,0,1,17,2,1,0,8,2,6.33
+50,Hamid Eriksen,Westfield FC,DEF,2022-23,35,16,1184,1,5,3,1,33,4,39,25,6,1,5.93
+51,Yusuf Perez,Ironclad FC,DEF,2023-24,18,18,1692,1,0,6,4,56,2,45,46,0,1,5.3
+52,Ivan Okonkwo,Blue Wave United,DEF,2021-22,18,19,1254,0,2,0,1,65,8,51,44,5,1,5.48
+53,Arjan Diaz,Redstone City,DEF,2022-23,34,20,1780,2,5,2,2,32,4,79,25,7,0,7.05
+54,Rafa Castillo,Golden Eagles SC,MID,2023-24,33,26,1768,0,1,14,9,91,6,32,7,2,1,5.73
+55,Leo Costa,Northport Athletic,MID,2021-22,22,23,1748,5,7,21,13,41,6,17,27,0,2,6.47
+56,Arjan Silva,Silverstone FC,MID,2022-23,36,30,2520,6,5,13,6,66,6,30,27,2,2,6.39
+57,Dani Dubois,Coastal Rovers,MID,2023-24,32,35,2765,0,0,30,17,125,17,6,21,3,0,5.91
+58,Rafa Lombardi,Thunder Valley FC,FWD,2021-22,21,28,1624,11,0,67,34,42,6,7,7,1,1,5.38
+59,Marco Traore,Eastbridge City,FWD,2022-23,28,36,2268,8,9,35,17,48,4,3,9,0,2,6.11
+60,Andre Szabo,Westfield FC,FWD,2023-24,38,37,3145,4,2,53,23,15,0,13,4,10,2,6.46
+61,Oscar Björk,Ironclad FC,GK,2021-22,18,15,1335,0,0,2,1,23,0,1,1,6,1,6.31
+62,Ade Castillo,Blue Wave United,DEF,2022-23,30,27,1755,0,1,2,1,56,7,77,34,3,2,6.18
+63,Ade Dubois,Redstone City,DEF,2023-24,20,6,552,0,0,0,1,30,4,41,37,8,0,5.88
+64,Leo Traore,Golden Eagles SC,DEF,2021-22,34,7,630,0,3,3,2,54,1,65,27,0,0,6.07
+65,Luca Kovač,Northport Athletic,DEF,2022-23,28,5,340,2,1,2,2,43,1,20,22,3,2,7.05
+66,Mateo Nkosi,Silverstone FC,MID,2023-24,24,13,1196,0,1,21,7,85,1,27,27,0,0,6.42
+67,Finn Silva,Coastal Rovers,MID,2021-22,21,8,664,7,8,9,7,37,2,41,42,0,1,6.63
+68,Kai Castillo,Thunder Valley FC,MID,2022-23,35,14,910,3,1,34,22,97,14,18,33,6,2,6.38
+69,Rafa García,Eastbridge City,MID,2023-24,28,19,1520,5,6,5,5,76,8,14,41,1,0,6.94
+70,Dani Perez,Westfield FC,FWD,2021-22,36,10,780,9,4,35,10,40,1,0,7,10,0,7.5
+71,Ben Ferreira,Ironclad FC,FWD,2022-23,26,9,693,9,3,35,23,37,4,1,11,0,1,5.73
+72,Leo Rossi,Blue Wave United,FWD,2023-24,18,6,468,14,7,55,30,23,2,12,10,5,2,8.17
+73,Rafa Nkosi,Redstone City,GK,2021-22,33,38,2280,0,0,0,1,22,1,0,0,8,2,5.8
+74,Kai Yılmaz,Golden Eagles SC,DEF,2022-23,27,10,690,0,4,0,1,13,1,27,40,7,1,6.15
+75,Carlos Nkosi,Northport Athletic,DEF,2023-24,31,29,2204,3,0,3,3,33,4,50,57,8,1,5.88
+76,Dani García,Silverstone FC,DEF,2021-22,38,38,2660,4,1,4,4,92,4,67,31,0,1,5.89
+77,Yusuf Berg,Coastal Rovers,DEF,2022-23,19,11,748,1,2,5,2,51,0,64,28,3,0,6.12
+78,Carlos Ferreira,Thunder Valley FC,MID,2023-24,36,16,1056,6,0,14,6,74,5,33,14,0,2,6.24
+79,Mateo Berg,Eastbridge City,MID,2021-22,36,8,512,3,4,17,6,79,1,16,13,10,1,6.64
+80,Carlos Nwosu,Westfield FC,MID,2022-23,24,12,924,0,0,11,5,66,5,30,21,1,2,5.66
+81,Yusuf Nkosi,Ironclad FC,MID,2023-24,33,15,1320,5,5,16,6,106,9,54,22,10,2,6.31
+82,James Rossi,Blue Wave United,FWD,2021-22,35,26,1612,10,5,43,28,57,6,20,11,7,0,5.39
+83,Rafa Müller,Redstone City,FWD,2022-23,18,36,2052,6,3,88,57,37,2,8,8,5,1,6.38
+84,Tiago Lombardi,Golden Eagles SC,FWD,2023-24,38,9,549,11,0,53,35,52,0,11,13,10,1,7.32
+85,Cris Dubois,Northport Athletic,GK,2021-22,29,23,1863,0,0,0,1,6,0,1,2,2,2,5.64
+86,Andre Eriksen,Silverstone FC,DEF,2022-23,25,6,516,4,1,5,4,46,1,39,38,8,0,5.67
+87,Rafa Kovač,Coastal Rovers,DEF,2023-24,36,7,490,1,1,3,1,48,1,40,27,10,2,5.94
+88,Emil Björk,Thunder Valley FC,DEF,2021-22,30,7,511,2,0,4,2,50,5,64,23,3,2,5.99
+89,Dani Björk,Eastbridge City,DEF,2022-23,21,15,1035,4,4,4,4,50,1,56,41,7,0,6.25
+90,Serge Dubois,Westfield FC,MID,2023-24,25,28,1988,5,5,20,8,67,7,39,28,9,0,6.9
+91,Kai Petrov,Ironclad FC,MID,2021-22,37,34,2890,0,5,15,5,68,3,34,28,3,2,6.37
+92,Alexis Okonkwo,Blue Wave United,MID,2022-23,32,31,2883,0,5,17,5,98,4,32,19,5,0,5.8
+93,Arjan Szabo,Redstone City,MID,2023-24,38,25,1725,6,7,10,6,94,10,31,17,5,2,6.0
+94,Niko Nwosu,Golden Eagles SC,FWD,2021-22,37,15,1320,11,0,51,19,76,9,0,16,6,1,6.51
+95,Ivan Hernandez,Northport Athletic,FWD,2022-23,27,24,1656,16,2,75,34,30,1,2,10,0,0,6.35
+96,Omar Yılmaz,Silverstone FC,FWD,2023-24,34,25,1475,7,0,38,26,59,1,29,4,3,2,6.29
+97,Ade Müller,Coastal Rovers,GK,2021-22,30,31,1984,0,0,0,1,7,0,1,1,5,1,6.0
+98,Rafa Yılmaz,Thunder Valley FC,DEF,2022-23,34,27,1485,3,4,5,3,59,2,71,47,3,0,6.43
+99,Marco Nkosi,Eastbridge City,DEF,2023-24,25,16,1376,0,0,7,3,67,3,50,26,2,2,6.05
+100,Ben Szabo,Westfield FC,DEF,2021-22,37,8,544,2,0,5,2,45,0,51,37,4,1,7.02
+101,Leo Mensah,Ironclad FC,DEF,2022-23,21,5,300,0,0,3,1,65,8,52,55,6,0,6.02
+102,Alexis Yamamoto,Blue Wave United,MID,2023-24,29,30,2490,0,0,13,6,75,11,35,21,1,0,6.52
+103,Theo Santos,Redstone City,MID,2021-22,26,28,2632,4,3,23,16,75,4,47,0,4,0,5.5
+104,Tiago Björk,Golden Eagles SC,MID,2022-23,37,14,910,1,2,37,22,111,7,25,13,0,1,6.06
+105,Tiago Kovač,Northport Athletic,MID,2023-24,26,13,1105,0,2,19,11,83,3,14,33,7,2,6.38
+106,Andre Silva,Silverstone FC,FWD,2021-22,18,12,936,10,5,52,34,62,8,8,12,5,1,7.56
+107,Alexis Andersen,Coastal Rovers,FWD,2022-23,22,15,1230,16,0,31,16,46,2,9,4,1,0,6.11
+108,Niko Santos,Thunder Valley FC,FWD,2023-24,29,17,1156,13,2,51,20,29,3,0,0,1,1,5.87
+109,Oscar Rossi,Eastbridge City,GK,2021-22,35,37,3145,0,0,1,1,12,0,1,0,4,0,6.28
+110,Ben Eriksen,Westfield FC,DEF,2022-23,21,32,3008,0,2,4,2,45,4,63,47,10,0,6.66
+111,Luca Ferreira,Ironclad FC,DEF,2023-24,30,17,1377,3,2,3,3,17,2,31,51,4,2,5.73
+112,Ben Kovač,Blue Wave United,DEF,2021-22,31,16,1232,0,3,3,2,37,0,69,41,9,0,5.86
+113,Dani Nkosi,Redstone City,DEF,2022-23,29,13,988,2,3,5,3,68,7,49,44,10,2,6.19
+114,Ben Diaz,Golden Eagles SC,MID,2023-24,18,36,2952,5,4,27,9,34,5,39,25,6,2,5.45
+115,Javi Szabo,Northport Athletic,MID,2021-22,38,17,1513,4,3,14,7,32,1,40,9,5,2,5.59
+116,Omar Eriksen,Silverstone FC,MID,2022-23,30,37,3330,0,6,24,9,25,2,18,37,10,1,5.89
+117,James Perez,Coastal Rovers,MID,2023-24,36,32,2016,5,6,32,20,70,10,12,36,5,1,5.92
+118,Kai Perez,Thunder Valley FC,FWD,2021-22,25,31,2449,10,6,60,41,38,1,15,0,2,0,6.67
+119,Theo Dubois,Eastbridge City,FWD,2022-23,22,32,2272,11,5,103,71,36,2,12,10,4,0,5.74
+120,Hamid Berg,Westfield FC,FWD,2023-24,38,27,1512,5,6,53,23,48,0,0,10,0,2,6.49
